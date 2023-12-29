@@ -14,7 +14,7 @@ body {
   color: #444444;
 }
 .logo{
-color: white;
+color: rgb(255, 255, 255);
 }
 a {
   color: #261f5c;
@@ -87,7 +87,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #5fcf80;
+ border: 6px solid #cdcf5f;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
