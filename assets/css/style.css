@@ -87,7 +87,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
- border: 6px solid #cdcf5f;
+ border: 6px solid  #cfbb5f;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -149,7 +149,7 @@ transition: all 0.5s;
 }
 
 #header .logo a {
-  color: #e5b7b7;
+  color: #f5f5f5;
 }
 
 #header .logo a span {
